@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist
+
+# Caches
+*.cache
+*.log
+*.spec
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+
+# Matplotlib cache and configuration
+.matplotlib/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code specific
+.vscode/
+
+# PyCharm specific
+.idea/
+
+# Files created by pytest
+.cache/
+.pytest_cache/
+
+# Ignore Jupyter Notebook hidden files
+.ipynb_checkpoints
+
+# Ignore saved plots or output images
+*.png
+*.svg
+*.jpg
+*.jpeg
+
+# Ignore any system-specific files
+.DS_Store
+Thumbs.db
+
